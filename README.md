@@ -1,6 +1,10 @@
 # EXP-2-Java-program-to-compare-two-numbers
 # Program
 ```
+Developed by : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 public class CompareNumbers {
     public static void main(String[] args) {
         int num1 = 10;
